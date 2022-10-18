@@ -9,7 +9,7 @@ description: >-
 
 ## Architecture
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 ### MedDAO Protocol
 

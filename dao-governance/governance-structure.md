@@ -4,7 +4,7 @@
 
 MedDAO operates as the superDAO with subDAO extensions.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 ## MedDAO as the superDAO
 
