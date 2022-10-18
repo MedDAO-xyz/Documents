@@ -1,6 +1,6 @@
 # Community
 
-## Community Growth Strategy -t
+## Community Growth Strategy
 
 {% embed url="https://docs.google.com/presentation/d/1oJbS7aK0SAiRPjSzM73qzqMrrds_Vrc6/edit?ouid=103744068577273759678&rtpof=true&sd=true&usp=sharing" %}
 
