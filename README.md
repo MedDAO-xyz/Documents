@@ -1,7 +1,7 @@
 ---
 description: >-
-  This documentation contains the specifications and supporting info for MedDAO
-  v1.0 protocol and platform development.
+  This documentation contains the specifications and supporting info for the MedDAO
+  protocol and platform development.
 ---
 
 # Overview
