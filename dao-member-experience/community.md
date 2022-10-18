@@ -37,7 +37,9 @@ Initial working groups include:
 
 ### Dev working group
 
-* Code-related, specifically the translation of clinical protocols and disease or clinical problem-related workstreams into code, and thus developers, software engineers, smart contract engineers, etc. would be key members
+{% hint style="info" %}
+Code-related, specifically the translation of clinical protocols and disease or clinical problem-related workstreams into code, and thus developers, software engineers, smart contract engineers, etc. would be key members
+{% endhint %}
 
 #### Mission
 
@@ -138,3 +140,17 @@ Enable MedDAO and its subDAOs to provide the greatest value to the greatest numb
 * Continually evaluate and suggest improvements on current MedDAO use cases
 
 ### Governance working group
+
+#### Mission
+
+Create, maintain, and update the governance tools and mechanisms by which all MedDAO members govern the DAO and to support subDAOs in their governance decision making.
+
+#### Values
+
+Facilitate equitable decision making processes across the DAO, ultimately putting the tools in place to enable progressive decentralization.
+
+#### Example Operations:
+
+* Build out governance tooling systems
+* Ensure tokenomics of governance token support gradual decentralization
+* Assist community members in the informal and formal governance proposal process&#x20;
