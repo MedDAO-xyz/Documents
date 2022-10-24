@@ -16,7 +16,19 @@ Guidelines for what should be included in the proposal:&#x20;
 For more information on subDAOs within MedDAO please click [here](../../dao-governance/governance-structure.md#subdaos)
 {% endhint %}
 
-## Completing Order
+## Knowledge Request Minimum Viable Product (MVP)
+
+For our KR MVP we have built a system using pre existing platforms.
+
+For the MVP walkthrough please check our wiki site using the link below:
+
+{% embed url="https://www.notion.so/meddao/Knowledge-Request-Protocol-MVP-8fe6a0e848bb47ac85f08b44bc7dd5c5" %}
+
+{% hint style="info" %}
+Our KR MVP is not meant to scale or serve as the long term KR module, but to demonstrate a use case and further explore product market fit.  For more on how we expect the KR module to progress in the future, please see below.
+{% endhint %}
+
+## Future State Completing Order
 
 {% embed url="https://www.figma.com/file/rGWNUC8e8JLqSpGMxkFwjN/Knowledge-Request-Module-V1?node-id=0:1" %}
 
