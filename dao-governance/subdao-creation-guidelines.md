@@ -1,6 +1,10 @@
 # SubDAO Creation Guidelines
 
-MedDAO’s long-term goal is to have an ecosystem of successful, self-sustaining subDAOs where members conduct the majority of their activities. Once a group of MedDAO members have communicated, organized and feel it is appropriate to form a subDAO, they can do so via Formal Proposal.&#x20;
+MedDAO’s long-term goal is to have an ecosystem of successful, self-sustaining subDAOs where members conduct the majority of their activities. Once a group of MedDAO members have communicated, organized and feel it is appropriate to form a subDAO, they can do so via a SubDAO Creation Proposal (SCP).&#x20;
+
+The process by which to form a subDAO can be found on our Discourse Forum:
+
+{% embed url="https://gov.meddao.xyz/c/proposals/scp/11" %}
 
 Here are the suggested requirements that should be met before a subDAO is created:
 
