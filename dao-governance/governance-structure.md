@@ -1,5 +1,13 @@
 # Governance Structure
 
+## MedDAO Constitution
+
+MedDAO has proposed and ratified its own constitution establishing its governance systems, fundamental rules, guiding values, and basic rights and protections for its participants.
+
+MedDAO's Constitution can be found on our Discourse Forum:
+
+{% embed url="https://gov.meddao.xyz/c/other-gov/constitution/14" %}
+
 ## MedDAO Super/Sub Relationship
 
 MedDAO operates as the superDAO with subDAO extensions.
@@ -46,5 +54,5 @@ While we see great value creation derived from subDAOs of credentialed medical p
 
 MedDAO has 2 main governance roles:
 
-* MedDAO Members - Members have the ability to vote on Formal Proposals at the MedDAO level
-* SubDAO NFT credential holders - SubDAO members have the ability to vote at the subDAO level for any subDAO for which they hold credentials. Each credential grants one vote.
+* MedDAO Members - Members have the ability to vote on MedDAO Improvement Proposals and Informal Proposals at the MedDAO level
+* SubDAO members - SubDAO members have the ability to vote at the subDAO level for any subDAO for which they hold membership.
