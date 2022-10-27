@@ -6,9 +6,13 @@ description: >-
 
 # Proposals
 
-## Formal Proposals
+## MedDAO Improvement Proposals (MIPs)
 
 All MedDAO level decisions that do have an impact on governance structure or include requests for treasury funds are considered Formal Proposals. Here we will outline Formal Proposal Types, Process and Voting Rights.
+
+Find more information on MIPs in our Discourse Forum:
+
+{% embed url="https://gov.meddao.xyz/c/proposals/mip/12" %}
 
 ### **Examples of Formal Proposals:**
 
@@ -26,7 +30,11 @@ All MedDAO level decisions that are non-binding and have no impact on MedDAO fun
 
 ### **Informal Proposal Processes:**
 
-1. Proposals are presented in the #informal-proposals Discord channel
+1. Proposals are presented in the `#informal-proposals` Discord channel
    * This allows Members to ask for clarification, present improvements and voice concerns
 2. After an allotted period the Informal Proposal goes to a vote via a Discord poll. Approval or rejection is based on simple majority
+
+Find more information on Informal Proposals in our Discourse Forum:
+
+{% embed url="https://gov.meddao.xyz/c/proposals/ip/15" %}
 
