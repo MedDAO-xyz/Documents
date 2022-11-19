@@ -40,7 +40,7 @@ We believe that biggest opportunity in leveraging blockchain is to put ownership
 
 One of the long-term objectives in the MedDAO project is to build a so-called baseplate layer that would provide the abstractions, primitives and tooling for others to potentially extend it with many different implementations and applications. The SubDAOs built upon the MedDAO baseplate will accelerate the path to a globalized medical knowledge network.
 
-Because of that, we're aiming for making our protocol architecture as extendable and modular as possible. Of course it should not stand in a way of delivering the initial MVP value, but is something we'd like to keep in mind when designing features.
+Because of that, we're aiming for making our protocol architecture as extendable and modular as possible. Of course it should not stand in the way of delivering the initial MVP value, but is something we'd like to keep in mind when designing features.
 
 {% hint style="info" %}
 Please find more information on these topics using the links below:
