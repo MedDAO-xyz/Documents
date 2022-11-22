@@ -1,7 +1,7 @@
 ---
 description: >-
-  This documentation contains the specifications and supporting info for the MedDAO
-  protocol and platform development.
+  This documentation contains the specifications and supporting info for the
+  MedDAO protocol and platform development.
 ---
 
 # Overview
@@ -38,7 +38,7 @@ We believe that biggest opportunity in leveraging blockchain is to put ownership
 
 ## Baseplate / Hyperstructure for Healthcare 3.0
 
-One of the long-term objectives in the MedDAO project is to build a so-called baseplate layer that would provide the abstractions, primitives and tooling for others to potentially extend it with many different implementations and applications. The SubDAOs built upon the MedDAO baseplate will accelerate the path to a globalized medical knowledge network.
+One of the long-term objectives in the MedDAO project is to build a so-called baseplate layer that would provide the abstractions, primitives and tooling for others to potentially extend it with many different implementations and applications. The subDAOs built upon the MedDAO baseplate will accelerate the path to a globalized medical knowledge network.
 
 Because of that, we're aiming for making our protocol architecture as extendable and modular as possible. Of course it should not stand in the way of delivering the initial MVP value, but is something we'd like to keep in mind when designing features.
 
