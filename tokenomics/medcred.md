@@ -8,7 +8,15 @@ To start, MedCred will represent certification by MedDAO that the holder is a li
 
 In the future, this NFT can represent certification of anything a subDAO defines. For example, a MedCred NFT can be issued to patients who have received spinal surgeries in a spinal surgery patient subDAO.
 
-The details and specifications of the MedCred NFT will be further defined by the engineering team.
+More details and specifications of the MedCred NFT can be found below:
+
+{% embed url="https://www.notion.so/meddao/What-is-MedCred-74e6b0305c6143cd99b292e35848e235" %}
+
+### Steps to Receive MedCred V1
+
+For a simple walkthrough on obtaining MedCred V1 please use the link below:
+
+{% embed url="https://www.notion.so/meddao/MedCred-V1-f5c6940f0f0546b9990fe122ee305db8" %}
 
 ## MedCred Certification
 
